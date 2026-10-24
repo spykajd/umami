@@ -6,7 +6,7 @@
     "useIgnoreFile": false
   },
   "files": {
-    "includes": ["**", "!!**/dist", "!!public/openapi.json", "!!**/node_modules",   "!!**/.next"]
+    "includes": ["**", "!!**/dist", "!!public/openapi.json", "!!node_modules",   "!!.next"]
   },
   "formatter": {
     "enabled": true,
